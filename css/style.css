@@ -181,3 +181,12 @@ section {
     color: #fff;
     padding: 20px 0;
 }
+
+padrao.css
+
+:root{
+    --cor-primaria: #fff;
+    --cor-primaria-background: #252525;
+    --cor-do-cachorro: #c6c6c6;
+    --tamanho-padrao: 600px;
+}
